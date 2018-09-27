@@ -1,0 +1,4 @@
+feather
+pandas
+pytest
+xlrd
