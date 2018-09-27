@@ -1,4 +1,3 @@
 pandas
 pytest
-xlrd>
-feather
+xlrd
