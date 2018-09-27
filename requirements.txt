@@ -1,4 +1,4 @@
-pandas>=0.20.1
-pytest==3.6.3; python_version > '3.6'
-xlrd>=1.1.0,<2.0.0
-feather>=0.4
+pandas
+pytest
+xlrd>
+feather
