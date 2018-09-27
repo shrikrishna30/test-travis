@@ -1,3 +1,4 @@
+feather 
 pandas
 pytest
 xlrd
